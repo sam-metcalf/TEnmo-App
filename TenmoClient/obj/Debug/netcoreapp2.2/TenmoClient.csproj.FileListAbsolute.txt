@@ -1,0 +1,12 @@
+C:\Users\metca\Tech Elevator\week-8-pair-exercises-c-team-7\09-Capstone\dotnet\TenmoClient\bin\Debug\netcoreapp2.2\TenmoClient.deps.json
+C:\Users\metca\Tech Elevator\week-8-pair-exercises-c-team-7\09-Capstone\dotnet\TenmoClient\bin\Debug\netcoreapp2.2\TenmoClient.runtimeconfig.json
+C:\Users\metca\Tech Elevator\week-8-pair-exercises-c-team-7\09-Capstone\dotnet\TenmoClient\bin\Debug\netcoreapp2.2\TenmoClient.runtimeconfig.dev.json
+C:\Users\metca\Tech Elevator\week-8-pair-exercises-c-team-7\09-Capstone\dotnet\TenmoClient\bin\Debug\netcoreapp2.2\TenmoClient.dll
+C:\Users\metca\Tech Elevator\week-8-pair-exercises-c-team-7\09-Capstone\dotnet\TenmoClient\bin\Debug\netcoreapp2.2\TenmoClient.pdb
+C:\Users\metca\Tech Elevator\week-8-pair-exercises-c-team-7\09-Capstone\dotnet\TenmoClient\obj\Debug\netcoreapp2.2\TenmoClient.csprojAssemblyReference.cache
+C:\Users\metca\Tech Elevator\week-8-pair-exercises-c-team-7\09-Capstone\dotnet\TenmoClient\obj\Debug\netcoreapp2.2\TenmoClient.AssemblyInfoInputs.cache
+C:\Users\metca\Tech Elevator\week-8-pair-exercises-c-team-7\09-Capstone\dotnet\TenmoClient\obj\Debug\netcoreapp2.2\TenmoClient.AssemblyInfo.cs
+C:\Users\metca\Tech Elevator\week-8-pair-exercises-c-team-7\09-Capstone\dotnet\TenmoClient\obj\Debug\netcoreapp2.2\TenmoClient.csproj.CoreCompileInputs.cache
+C:\Users\metca\Tech Elevator\week-8-pair-exercises-c-team-7\09-Capstone\dotnet\TenmoClient\obj\Debug\netcoreapp2.2\TenmoClient.dll
+C:\Users\metca\Tech Elevator\week-8-pair-exercises-c-team-7\09-Capstone\dotnet\TenmoClient\obj\Debug\netcoreapp2.2\TenmoClient.pdb
+C:\Users\metca\Tech Elevator\week-8-pair-exercises-c-team-7\09-Capstone\dotnet\TenmoClient\obj\Debug\netcoreapp2.2\TenmoClient.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "1K40bqenIQAZBNHOwn9339GrA3IHY1uTlyQGzzuWqeFbSseyE1vMKCLXmkkbAWfcq1DTpGmeNhOpToQBaTHsEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\metca\\Tech Elevator\\week-8-pair-exercises-c-team-7\\09-Capstone\\dotnet\\TenmoClient\\TenmoClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\metca\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\metca\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\metca\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\metca\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\metca\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\metca\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\metca\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\metca\\.nuget\\packages\\restsharp\\106.10.1\\restsharp.106.10.1.nupkg.sha512"
+  ],
+  "logs": []
+}
